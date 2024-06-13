@@ -174,7 +174,7 @@ function nurysium: init(name: string, is_draggable: boolean, parent)
 	Eye.BorderColor3 = Color3.fromRGB(0, 0, 0)
 	Eye.BorderSizePixel = 0
 	Eye.Position = UDim2.new(0.239999995, 0, 0.239999995, 0)
-	Eye.Size = UDim2.new(0.6, 0, 0.6, 0)
+	Eye.Size = UDim2.new(0.8, 0, 0.8, 0)
 	Eye.ZIndex = 25
 	Eye.Image = "rbxassetid://17441779136"
 	Eye.ImageTransparency = 0.450
